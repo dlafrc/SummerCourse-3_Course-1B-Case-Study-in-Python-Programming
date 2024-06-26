@@ -1,11 +1,11 @@
-# Course 1B: Case Study in Python Programming
+![image](https://github.com/dlafrc/SummerCourse-3_Course-1B-Case-Study-in-Python-Programming/assets/144023059/62731d99-8c0f-44b7-bbfc-4ba09a5cb659)# Course 1B: Case Study in Python Programming
 This repository was created to fulfill the assignment for Summer Course 1B: Case Study in Python Programming by Group 3.
 
 Group Member: 
-- Ibnu Adeng Kurnia
-- Muhammad Al-Zukarnaim Bin Sapti
-- Della Rachmatika Noer Intanty
-- Mohamed Nabil Abdelhady Ahmed
-- Dk Siti Nurul Mashitah binti Pg Mohd Sahar
-- Azubuike Fortune Okpala
-- Rozaina Binti Zainul Rashid 
+- Muhammad Al-Zukarnaim Bin Sapti (Universiti Teknologi Mara (UiTM))
+- Rozaina Binti Zainul Rashid (Universiti Teknologi Malaysia)
+- Della Rachmatika Noer Intanty (Universitas Pendidikan Indonesia)
+- Mohamed Nabil Abdelhady Ahmed (Universiti Teknologi Malaysia)
+- Dk Siti Nurul Mashitah binti Pg Mohd Sahar (Universiti Islam Sultan Sharif Ali (UNISSA))
+- Azubuike Fortune Okpala (University of Cyberjaya)
+- Ibnu Adeng Kurnia (Universitas Pendidikan Indonesia)
