@@ -1,4 +1,4 @@
-![image](https://github.com/dlafrc/SummerCourse-3_Course-1B-Case-Study-in-Python-Programming/assets/144023059/62731d99-8c0f-44b7-bbfc-4ba09a5cb659)# Course 1B: Case Study in Python Programming
+# Course 1B: Case Study in Python Programming
 This repository was created to fulfill the assignment for Summer Course 1B: Case Study in Python Programming by Group 3.
 
 Group Member: 
